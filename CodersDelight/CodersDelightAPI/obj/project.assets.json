@@ -5209,11 +5209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CodersDelight\\CodersDelightAPI\\CodersDelightAPI.csproj",
+      "projectUniqueName": "D:\\Repo\\CodersDelight\\CodersDelight\\CodersDelightAPI\\CodersDelightAPI.csproj",
       "projectName": "CodersDelightAPI",
-      "projectPath": "D:\\CodersDelight\\CodersDelightAPI\\CodersDelightAPI.csproj",
+      "projectPath": "D:\\Repo\\CodersDelight\\CodersDelight\\CodersDelightAPI\\CodersDelightAPI.csproj",
       "packagesPath": "C:\\Users\\gengakayathre.g\\.nuget\\packages\\",
-      "outputPath": "D:\\CodersDelight\\CodersDelightAPI\\obj\\",
+      "outputPath": "D:\\Repo\\CodersDelight\\CodersDelight\\CodersDelightAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gengakayathre.g\\AppData\\Roaming\\NuGet\\NuGet.Config"
